@@ -1,0 +1,14 @@
+#SearchWid
+{
+    background-color: rgb(234, 234, 234);
+}
+
+#add_friend_wid
+{
+    background-color: rgb(255, 255, 255);
+}
+
+#add_friend_wid:hover
+{
+    background-color: rgb(235, 235, 235);
+}

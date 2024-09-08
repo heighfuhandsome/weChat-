@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/chat.png</file>
+        <file>images/back.png</file>
+        <file>images/clearn.png</file>
+        <file>images/search.png</file>
+        <file>images/white.png</file>
+        <file>images/friend_add.png</file>
+        <file>images/friend_add_hover.png</file>
+        <file>style/chatwidget.qss</file>
+        <file>images/biaoqing.png</file>
+        <file>images/file.png</file>
+        <file>images/red_point.png</file>
+        <file>images/friends_hover.png</file>
+        <file>images/friends_normal.png</file>
+        <file>images/msg_hover.png</file>
+        <file>images/msg_normal.png</file>
+        <file>images/error.png</file>
+        <file>style/applyfriendwid.qss</file>
+        <file>images/shouqi.png</file>
+        <file>images/zhankai.png</file>
+        <file>images/head.png</file>
+        <file>images/new_friend.png</file>
+        <file>style/chatcontentwid.qss</file>
+        <file>style/loginwid.qss</file>
+        <file>images/icon.png</file>
+        <file>style/registerwid.qss</file>
+        <file>images/right.png</file>
+        <file>images/search_user.png</file>
+        <file>style/searchwid.qss</file>
+        <file>images/cha_black.png</file>
+    </qresource>
+</RCC>

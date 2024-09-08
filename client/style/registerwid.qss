@@ -1,0 +1,32 @@
+QLineEdit
+{
+    border-radius:10px;
+    padding:10px;
+}
+#btn_reg[state='enable']
+{
+    background:rgb(0,141,235);
+    border-radius:10px;
+    color:white;
+    font-size:13px;
+}
+
+#btn_reg[state='disable']
+{
+    background:rgb(163,220,255);
+    border-radius:10px;
+    color:white;
+    font-size:13px;
+}
+
+#hint[state='error']
+{
+    color:red;
+    font-size:11px;
+}
+
+#hint[state='normal']
+{
+    color:green;
+    font-size:11px;
+}

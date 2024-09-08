@@ -1,0 +1,9 @@
+include_directories(
+    ${CMAKE_CURRENT_SOURCE_DIR}/grpc
+    ${CMAKE_CURRENT_SOURCE_DIR}/common
+)
+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/grpc)
+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/common)
+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/StatusServer)
+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/ChatServer)
+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/GateWay)

@@ -1,0 +1,30 @@
+syntax="proto3";
+package Server;
+
+
+service StatusServer{
+    rpc GetChartServer(UserInfo) returns (ChatServerInfo);
+    rpc Login(LoginReq)returns(LoginRsp);
+}
+
+message UserInfo{
+    string uid = 1;
+}
+
+message ChatServerInfo{
+    string host = 1;
+    string port = 2;
+    string token = 3;
+}
+
+
+message LoginReq{
+    UserInfo user = 1;
+    string token= 2;
+    string host = 3;
+}
+
+message LoginRsp{
+    UserInfo user = 1;
+    string token = 3;
+}

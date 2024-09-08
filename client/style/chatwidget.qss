@@ -1,0 +1,98 @@
+QPushButton
+{
+    border:none;
+}
+QScrollBar:vertical
+{
+    background:transparent;
+    width: 10px;
+    margin: 0px;
+}
+
+
+QScrollBar::handle:vertical
+{
+    background:rgb(173,170,169);
+    border-radius: 5px;
+}
+
+QScrollBar::add-line:vertical,QScrollBar::sub-line:vertical
+{
+    height: 0px;
+}
+
+
+
+QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+    background: rgb(240,240,240);
+}
+
+QTextEdit
+{
+    background-color:transparent;
+    border:none;
+}
+
+
+#search_lineEdit
+{
+    border:none;
+}
+
+#list_wid
+{
+    border-right:1px solid rgb(230,230,230);
+}
+
+
+.tag
+{
+    font-family: "Microsoft YaHei";
+    font-size:10px;
+    background:rgb(235,235,235);
+}
+
+.friendListItem_newFriend
+{
+    background:rgb(210,210,210);
+}
+
+.friendApplyItem
+{
+    background:rgb(240,240,240);
+    border-bottom:1px solid rgb(220,220,220);
+}
+
+.friendApplyItem > #remark
+{
+    font-size:12px;
+    color:rgb(180,180,180);
+}
+
+.friendApplyItem  QPushButton
+{
+    background:rgb(180,180,180);
+    border-radius:5px;
+}
+
+.msgItem
+{
+    border-bottom:1px solid rgb(220,220,220);
+}
+
+.msgItem:hover
+{
+    background:rgb(220,220,220);
+}
+
+.msgItem > #msg
+{
+    font-size:12px;
+    color:rgb(180,180,180);
+}
+
+.friendListItem
+{
+    border-bottom:1px solid rgb(230,230,230);
+}
+

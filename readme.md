@@ -1,11 +1,13 @@
-## 效果展示图
+### 效果展示图
 
-![image-20240912092518064](C:\Users\jiexiao\AppData\Roaming\Typora\typora-user-images\image-20240912092518064.png)
+![注册](image/1.png)
 
-![image-20240912092530454](C:\Users\jiexiao\AppData\Roaming\Typora\typora-user-images\image-20240912092530454.png)
 
-![image-20240912092547901](C:\Users\jiexiao\AppData\Roaming\Typora\typora-user-images\image-20240912092547901.png)
 
-![image-20240912092611318](C:\Users\jiexiao\AppData\Roaming\Typora\typora-user-images\image-20240912092611318.png)
+![登录](image/2.png)
 
-![image-20240912092634435](C:\Users\jiexiao\AppData\Roaming\Typora\typora-user-images\image-20240912092634435.png)
+![聊天界面](image/3.png)
+
+![添加好界面](image/4.png)
+
+![好友标签界面](image/5.png)
